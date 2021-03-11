@@ -9,3 +9,5 @@ Glossary with terms and definitions related to C programming.
 **block** A code sequence, possibly empty, enclosed by braces.
 
 **data model** The collection of choices made by a C implementation about the sizes of the fundamental types.
+
+**for statement** Control statement that provides iterative execution, also known as **for loop**.
