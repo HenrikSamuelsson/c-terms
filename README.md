@@ -12,4 +12,6 @@ Glossary with terms and definitions related to C programming.
 
 **data model** The collection of choices made by a C implementation about the sizes of the fundamental types.
 
+**escape sequence** Sequence of characters representing another character or sequence of characters, needed for example to be able to have a newline character in a string.
+
 **for statement** Control statement that provides iterative execution, also known as **for loop**.
