@@ -16,4 +16,6 @@ Glossary with terms and definitions related to C programming.
 
 **for statement** Control statement that provides iterative execution, also known as **for loop**.
 
+**null character** Character that in C is used to terminate a string.
+
 **struct** A composite data type declaration that defines variables under one name in a block of memory.
