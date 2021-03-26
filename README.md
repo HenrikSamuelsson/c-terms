@@ -20,6 +20,8 @@ Glossary with terms and definitions related to C programming.
 
 **null character** Character that in C is used to terminate a string.
 
+**pointer** A variable that hold the adrress of another variable.
+
 **struct** A composite data type declaration that defines variables under one name in a block of memory.
 
 **type qualifier** A keyword that is applied to a type, resulting in a qualified type, expressing additional information about a value.
