@@ -20,6 +20,8 @@ Glossary with terms and definitions related to C programming.
 
 **null character** Character that in C is used to terminate a string.
 
+**if statement** Control statement that sets a conditional for executing a code block or not.
+
 **pointer** A variable that hold the adrress of another variable.
 
 **struct** A composite data type declaration that defines variables under one name in a block of memory.
