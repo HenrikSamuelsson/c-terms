@@ -10,6 +10,8 @@ Glossary with terms and definitions related to C programming.
 
 **block** A code sequence, possibly empty, enclosed by braces.
 
+**char** Integer type intended to store characters in.
+
 **compound statement** Set of statements enclosed by braces.
 
 **const**  A type qualifier that when applied to a data type indicates that the data is read only.
