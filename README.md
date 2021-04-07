@@ -20,6 +20,8 @@ Glossary with terms and definitions related to C programming.
 
 **escape sequence** Sequence of characters representing another character or sequence of characters, needed for example to be able to have a newline character in a string.
 
+**FLT_EVAL_METHOD** Macro indicating the precision used in floating-point operations.
+
 **for statement** Control statement that provides iterative execution, also known as **for loop**.
 
 **null character** Character that in C is used to terminate a string.
