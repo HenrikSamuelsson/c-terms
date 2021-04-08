@@ -24,6 +24,8 @@ Glossary with terms and definitions related to C programming.
 
 **for statement** Control statement that provides iterative execution, also known as **for loop**.
 
+**format specifier** Notatio used for input and output purposes to inform about what type of data a variable hold.
+
 **null character** Character that in C is used to terminate a string.
 
 **if statement** Control statement that sets a conditional for executing a code block or not.
