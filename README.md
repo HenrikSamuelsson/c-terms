@@ -10,7 +10,7 @@ Glossary with terms and definitions related to C programming.
 
 **block** A code sequence, possibly empty, enclosed by braces.
 
-**char** Integer type intended to store characters in.
+**char** Integer type intended to store characters, limited to hold one byte..
 
 **compound statement** Set of statements enclosed by braces.
 
@@ -31,6 +31,8 @@ Glossary with terms and definitions related to C programming.
 **if statement** Control statement that sets a conditional for executing a code block or not.
 
 **pointer** A variable that hold the adrress of another variable.
+
+**short** Integer type, limited size but guaranteed to be at least 16 bits.
 
 **struct** A composite data type declaration that defines variables under one name in a block of memory.
 
