@@ -32,7 +32,7 @@ Glossary with terms and definitions related to C programming.
 
 **pointer** A variable that hold the adrress of another variable.
 
-**short** Integer type, limited size but guaranteed to be at least 16 bits.
+**short** Integer type, size depends on the data model but guaranteed to be at least 16 bits.
 
 **struct** A composite data type declaration that defines variables under one name in a block of memory.
 
