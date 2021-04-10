@@ -18,6 +18,8 @@ Glossary with terms and definitions related to C programming.
 
 **data model** The collection of choices made by a C implementation about the sizes of the fundamental types.
 
+**double** Real floating point type usually represented by 64 bits in memory.
+
 **escape sequence** Sequence of characters representing another character or sequence of characters, needed for example to be able to have a newline character in a string.
 
 **FLT_EVAL_METHOD** Macro indicating the precision used in floating-point operations.
