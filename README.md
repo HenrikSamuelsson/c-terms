@@ -32,6 +32,8 @@ Glossary with terms and definitions related to C programming.
 
 **if statement** Control statement that sets a conditional for executing a code block or not.
 
+**int** Basic signed integer data type, size depends on the data model but guaranteed to use at least 16 bits.
+
 **pointer** A variable that hold the adrress of another variable.
 
 **short** Integer type, size depends on the data model but guaranteed to be at least 16 bits.
