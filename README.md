@@ -10,6 +10,8 @@ Glossary with terms and definitions related to C programming.
 
 **block** A code sequence, possibly empty, enclosed by braces.
 
+**C** A procedural programming language, not without quirks but enables writing of effecient code.
+
 **char** Integer type intended to store characters, limited to hold one byte..
 
 **compound statement** Set of statements enclosed by braces.
